@@ -1,0 +1,2 @@
+#These are installed in the bootstrap.sh script
+sudo apt install lm-sensors bc intel-gpu-tools linux-tools-generic linux-tools-common sudo apt-get install -y python-dbus
